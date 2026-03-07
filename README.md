@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am Final year Software Engineering student at Air University.<br>I focused on building innovative tech solutions.<br>I am Working on real-world industry projects and building practical software solutions.<br>I am mainly developing modern web applications using React and Next.js.<br>I am exploring and building projects in Artificial Intelligence and intelligent systems.<br><br><b>Ask me about:</b><br>React / Next.js development<br>Building real-world industry projects<br>Turning ideas into working software products<br>Fun fact<br>I enjoy building real products and startups, not just academic projects.
+I am Final year Software Engineering student at Air University.<br>I focused on building innovative tech solutions.<br>I am Working on real-world industry projects and building practical software solutions.<br>I am mainly developing modern web applications using React and Next.js.<br>I am exploring and building projects in Artificial Intelligence and intelligent systems.<br><br><b>Ask me about:</b><br>React / Next.js development<br>Building real-world industry projects<br>Turning ideas into working software products<br><br><b>Fun fact</b><br>I enjoy building real products and startups, not just academic projects.
 
 
 ## 🌐 Socials:
