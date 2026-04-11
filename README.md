@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Sohaib;Software+Engineer;React+Developer;AI+Enthusiast" />
+</p>
+
+<h1 align="center">👋 Muhammad Sohaib</h1>
 <h3 align="center">🚀 Final Year Software Engineering Student | React Developer | AI Enthusiast</h3>
 
 ---
@@ -51,30 +55,36 @@
 
 ## 🚀 Featured Projects
 
-### 📚 AI Classroom
-> A modern classroom management platform with:
-- Automatic Excel File Generation  
-- Grade Assigning Automation  
-- Built-in Web App Functionalities  
+### 💳 PayPalm
+> Palm Vein Biometric Payment Solution developed as Final Year Project.
 
-**Tech Used:** React, Firebase, Node.js  
+- Secure biometric authentication  
+- Contactless payment processing  
+- Innovative fintech solution  
+
+**Tech Used:** Python, OpenCV, AI/ML, Firebase  
 
 ---
 
-### 🛠 RepairHub
-> Startup-based door-to-door device repair platform.
+### 💻 CodeCraft
+> A modern coding and software development platform/project.
 
-**Tagline:** *"We Pick, We Fix, We Deliver"*  
+- Built for developers and learners  
+- Focused on scalable architecture  
+- User-friendly modern UI/UX  
 
-**Tech Used:** React Native, Express.js, MongoDB  
+**Tech Used:** React, Node.js, MongoDB  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sohaib7932&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib7932&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohaib7932&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib7932&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
@@ -89,3 +99,4 @@
 ## ⚡ Fun Fact
 
 > I enjoy building startups and real-world products more than academic-only projects 🚀
+> 
