@@ -86,4 +86,4 @@
 
 ## ⚡ Fun Fact
 
-> I enjoy building startups and real-world products more than academic-only projects 🚀
+> I enjoy building startups and real-world products along with the academic projects 🚀
