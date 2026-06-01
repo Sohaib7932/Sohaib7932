@@ -125,7 +125,10 @@ Tech Used: React, Node.js, MongoDB, Tailwind CSS
 
 ## 🌐 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sohaib-portfolio-7932.vercel.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-muhammadsohaib-/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadsohaib7932@gmail.com)
 
 ---
