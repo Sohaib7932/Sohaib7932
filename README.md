@@ -52,27 +52,72 @@
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
+💳 PayPalm
 
-### 💳 PayPalm
-> Palm Vein Biometric Payment Solution developed as Final Year Project.
+Palm Vein Biometric Payment Solution (Final Year Project)
 
-- Secure biometric authentication  
-- Contactless payment processing  
-- Innovative fintech solution  
+Developed a secure biometric payment system using palm vein recognition technology
+Enables cardless, cashless, and mobile-free transactions through palm scanning
+Integrated biometric authentication with payment processing workflows
+Presented at Air University Open House and received recognition for innovation
 
-**Tech Used:** Python, OpenCV, AI/ML, Firebase  
+Tech Used: Python, OpenCV, AI/ML, Firebase, React Native
 
----
+🎯 IELTS Counsel
 
-### 💻 CodeCraft
-> A modern coding and software development platform/project.
+AI-Powered IELTS Preparation Platform
 
-- Built for developers and learners  
-- Focused on scalable architecture  
-- User-friendly modern UI/UX  
+Built a comprehensive IELTS learning platform covering Listening, Reading, Writing, and Speaking modules
+Integrated AI-driven assessment and feedback mechanisms
+Designed an interactive learning experience for students preparing for IELTS exams
+Focused on personalized learning and performance tracking
 
-**Tech Used:** React, Node.js, MongoDB  
+Tech Used: Next.js, React, TypeScript, Node.js, AI APIs, MongoDB
+
+🔍 Code Smell Detection
+
+Static Code Quality Analysis Tool
+
+Developed a web-based platform for automated code quality analysis
+Detects various code smells including Bloaters, Couplers, and maintainability issues
+Generates actionable insights to improve software quality and readability
+Supports source code upload and automated scanning
+
+Tech Used: Python, Static Analysis, React, Node.js
+
+🩸 Blood Pulse Connect
+
+Blood Donation Management & Connectivity Platform
+
+Designed a digital solution connecting blood donors with recipients
+Conducted UX research and created high-fidelity interactive prototypes
+Focused on improving accessibility and efficiency in blood donation processes
+Developed user-centered workflows to streamline donor engagement
+
+Tech Used: Figma, UX Research, Wireframing, Prototyping
+
+📊 FB Marketplace Scraper
+
+Facebook Marketplace Data Extraction Tool
+
+Built a web scraping solution for collecting live product listings from Facebook Marketplace
+Automated data extraction for market analysis and trend monitoring
+Processed and organized large datasets for reporting and insights
+Implemented efficient scraping and data handling mechanisms
+
+Tech Used: Python, Web Scraping, Data Processing
+
+💻 CodeCraft
+
+Modern Software Development Platform
+
+Developed a scalable platform focused on software development and learning
+Implemented modern UI/UX principles with responsive design
+Built reusable components and optimized application performance
+Designed for developers seeking an efficient coding environment
+
+Tech Used: React, Node.js, MongoDB, Tailwind CSS  
 
 ---
 
