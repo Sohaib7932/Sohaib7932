@@ -8,9 +8,9 @@
 
 ## 🌟 About Me
 
-- 🎓 Final Year **Software Engineering Student** at Air University  
+- 🎓 Graduated from Air University as a **Software Engineering**
 - 💻 Passionate about building **real-world software solutions**  
-- 🌐 Specialized in **Modern Web Development using React / Next.js**  
+- 🌐 Specialized in **Modern Web Development and App Development using React / Next.js, React Native and Flutter**  
 - 🤖 Exploring **Artificial Intelligence & Intelligent Systems**  
 - 🚀 Love turning **ideas into practical startup products**  
 
